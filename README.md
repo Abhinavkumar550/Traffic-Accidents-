@@ -25,12 +25,12 @@ The following models were trained and evaluated:
 
 | Model                | Accuracy (%) |
 |----------------------|--------------|
-| Logistic Regression  | ~XX%         |
-| Decision Tree        | ~XX%         |
-| Random Forest        | ~XX%         |
-| K-Nearest Neighbors  | ~XX%         |
+| Logistic Regression  | 57.41%         |
+| Decision Tree        | 43.85%         |
+| Random Forest        | 58.60%         |
+| K-Nearest Neighbors  | 83.47%         |
 
-> Replace the `XX` with your actual results from the accuracy chart.
+
 
 ---
 
@@ -47,7 +47,7 @@ The following models were trained and evaluated:
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - Python
 - Pandas, NumPy
@@ -55,10 +55,3 @@ The following models were trained and evaluated:
 - Seaborn, Matplotlib
 
 ---
-
-## 📌 How to Run
-
-1. Clone this repo:
-   ```bash
-   git clone https://github.com/yourusername/traffic-accident-ml.git
-   cd traffic-accident-ml
